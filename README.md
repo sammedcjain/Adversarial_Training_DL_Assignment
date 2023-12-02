@@ -1,7 +1,7 @@
 # Deep learning Assignment :
 
 Submitted by
-Sammed C Jain - 4NI20IS095 - ISE 7th SEM 'B' section
+Sammed C Jain - 4NI20IS095 - ISE 7th SEM 'B' section <br>
 Topic - Adversarial training
 
 # Intro
@@ -16,11 +16,12 @@ Some examples of adversarial attacks include:
 - Poisoning attacks
 - Evasion attacks
 - Model extraction attacks
+  <br>
 
 # This Repository
 
 This repository provides codes for training and evaluating the models on the ImageNet dataset.
-The implementation is adapted from the [official PyTorch repository]
+The implementation is adapted from the official PyTorch repository.
 
 Using the Free Adversarial Training (Free-m) algorithm, we can train robust models at no additional cost compared to natural training. This allows us to train robust ImageNet models using only a few GPUs in a couple of days!
 
